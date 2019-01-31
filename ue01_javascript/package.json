@@ -1,0 +1,16 @@
+{
+  "name": "ue01_javascript",
+  "version": "0.0.1",
+  "description": "Erstes java Programm FIV",
+  "main": "main.js",
+  "scripts": {
+    "build": "echo \"not implementet yet\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emil Berger",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.1.1"
+  }
+}
